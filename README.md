@@ -66,6 +66,17 @@ dashboards/   → Visual interfaces using Streamlit or Power BI
 ---
 
 ## 🤝 Contributions
+To contribute to the project:
+
+1. **Fork** the repository on GitHub.
+2. **Clone** your fork locally
+3. **Create your branch**
+4. **Commit your changes**
+5. **Push to your branch**
+6. **Open a Pull Request** on GitHub comparing:
+- **base:** `main`
+- **compare:** `eda-Benjamin`
+
 
 This project is part of the **Amdari Internship Accelerator**
 Mentor: Muhammad Yekini
